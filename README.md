@@ -1,1 +1,2 @@
-# AI-Chat-Bot-Using-MERN
+# CHAT APP WITH CHATGPT AI
+
